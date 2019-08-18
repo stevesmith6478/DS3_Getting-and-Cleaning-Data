@@ -7,7 +7,7 @@ The dataset examined has the following dimensions:
 
 
 ---------------------------------
-Feature                    Result
+Feature                   Result
 ------------------------ --------
 Number of observations        180
 
