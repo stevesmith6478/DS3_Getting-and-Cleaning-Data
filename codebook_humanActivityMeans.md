@@ -1,6 +1,6 @@
 # Code Book
 
-#tidy_data.txt
+# tidy_data.txt
 
 # Data report overview
 The dataset examined has the following dimensions:
@@ -15,15 +15,13 @@ Number of variables            81
 ---------------------------------
 
 
-
-
 # Codebook summary table
 
 ---------------------------------------------------------------------------------------------------------------------------
 Label   Variable                                                               Class       # unique  Missing  Description  
                                                                                              values                        
 ------- ---------------------------------------------------------------------- --------- ---------- --------- -------------
-        **[subject]**                                                          integer           30  0.00 %                
+       subject                                                          integer           30  0.00 %                
 
         **[activity]**                                                         factor             6  0.00 %                
 
