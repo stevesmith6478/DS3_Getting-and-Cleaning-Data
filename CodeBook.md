@@ -1,5 +1,5 @@
 # Code Book - tidy_data.txt
-
+#
 
 # Data report overview
 The dataset examined has the following dimensions:
